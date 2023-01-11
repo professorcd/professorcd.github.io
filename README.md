@@ -1,2 +1,2 @@
-# Vagetti-dev.github.io
+# profesorcd.github.io
 Site para estudo sobre os isômeros.
